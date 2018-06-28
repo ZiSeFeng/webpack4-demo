@@ -1,0 +1,13 @@
+
+
+body{
+    background-color:#f1f1f1;
+    color: #333333;
+}
+
+
+.not{
+    background: url(../image/not.png);
+    width: 400px;
+    height: 200px;
+}
